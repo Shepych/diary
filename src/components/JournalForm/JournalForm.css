@@ -1,0 +1,9 @@
+.journal-form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.journal-form__textarea {
+    height: 300px;
+}
